@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "site-bench-mcp": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/dafeiai918/site-bench-mcp",
+        "site-bench-mcp"
+      ]
+    }
+  }
+}
