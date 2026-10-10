@@ -1,0 +1,7 @@
+name: site-bench-mcp
+description: 中转站质量评测 MCP：让 AI 直接测延迟 / 并发 / 参数兼容 / 降智抽样
+categories:
+  - tools
+  - development
+license: MIT
+repository: https://github.com/dafeiai918/site-bench-mcp
